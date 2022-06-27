@@ -106,17 +106,6 @@
       "id": 4
     },
     {
-      "nome": "ty",
-      "carne": "Alcatra",
-      "pao": "3 Queijos",
-      "opcionais": [
-        "Tomate",
-        "Pepino"
-      ],
-      "status": "Solicitado",
-      "id": 5
-    },
-    {
       "nome": "zeca",
       "carne": "Picanha",
       "pao": "Parmesão e Orégano",
@@ -154,12 +143,25 @@
       "id": 8
     },
     {
-      "nome": "Veipoto",
-      "carne": "Picanha",
-      "pao": "Pão Mexicano",
-      "opcionais": [],
+      "nome": "Zico",
+      "carne": "Alcatra",
+      "pao": "Parmesão e Orégano",
+      "opcionais": [
+        "Salame",
+        "Cheddar",
+        "Tomate",
+        "Pepino"
+      ],
       "status": "Solicitado",
       "id": 9
+    },
+    {
+      "nome": "Zumba",
+      "carne": "Maminha",
+      "pao": "Italiano Branco",
+      "opcionais": [],
+      "status": "Solicitado",
+      "id": 10
     }
   ]
 }
