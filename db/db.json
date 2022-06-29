@@ -140,21 +140,11 @@
         "Tomate",
         "Pepino"
       ],
-      "status": "Solicitado",
+      "status": "Em produção",
       "id": 9
     },
     {
-      "nome": "error",
-      "carne": "Alcatra",
-      "pao": "Italiano Branco",
-      "opcionais": [
-        "Salame"
-      ],
-      "status": "Finalizado",
-      "id": 11
-    },
-    {
-      "nome": "Matheys Battisti",
+      "nome": "Matheus Battisti",
       "carne": "Picanha",
       "pao": "3 Queijos",
       "opcionais": [
@@ -164,6 +154,17 @@
       ],
       "status": "Solicitado",
       "id": 12
+    },
+    {
+      "nome": "Garoto Boliche Peidorressimo da Silva :D",
+      "carne": "Maminha",
+      "pao": "Pão Mexicano",
+      "opcionais": [
+        "Cheddar",
+        "Bacon"
+      ],
+      "status": "Solicitado",
+      "id": 13
     }
   ]
 }
