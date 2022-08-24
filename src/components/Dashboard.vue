@@ -127,7 +127,7 @@ export default {
       // limpar dados da tela
       setTimeout(() => (this.msg = ""), 3000);
 
-      console.log(res);
+      // console.log(res);
     },
   },
   mounted() {

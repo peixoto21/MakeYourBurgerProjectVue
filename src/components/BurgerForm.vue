@@ -66,13 +66,11 @@ export default {
     return {
       paes: null,
       carnes: null,
-      opcionaisdata: null,
-      
+      opcionaisdata: null,      
       nome: null,
       pao: null,
       carne: null,
       opcionais: [],
-
       msg: null,
     };
   },
