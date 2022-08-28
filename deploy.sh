@@ -12,6 +12,6 @@ git add -A
 git commit -m 'deploy'
 # git push origin main
 #  deploying to my repository
-git push -f git@github.com:peixoto21/MakeYourBurgerProjectVue.git main:gh-pages
+git push origin -f git@github.com:peixoto21/MakeYourBurgerProjectVue.git main:gh-pages
 
 cd -
