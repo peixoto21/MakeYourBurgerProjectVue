@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 
 # abort on errors
 set -e
@@ -7,7 +8,7 @@ npm run build
 cd dist
 
 git init
-git add -add
+git add -A
 git commit -m 'deploy'
 #  deploying to my repository
 git push -f git@github.com:peixoto21/MakeYourBurgerProjectVue.git main:gh-pages
