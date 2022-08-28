@@ -10,7 +10,7 @@ cd dist
 # git init
 git add -A
 git commit -m 'deploy'
-git push origin main
+# git push origin main
 #  deploying to my repository
 git push -f git@github.com:peixoto21/MakeYourBurgerProjectVue.git main:gh-pages
 
