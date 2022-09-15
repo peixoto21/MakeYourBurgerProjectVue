@@ -3,7 +3,8 @@ node_modules
 /dist
 *.sh
 *.zip
-
+# Exercicio-Modulo-29-Victor-Peixoto-Projeto-make-your-burguer.zip
+deploy.sh
 
 # local env files
 .env.local
