@@ -1,16 +1,20 @@
 # 3-make-your-burger
 
-## Project setup
+## Setup do Projeto
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Rodar a página do projeto
 ```
 npm run serve
 ```
+### Rodar o json com a database do projeto
+```
+npm run backend
+```
 
-### Compiles and minifies for production
+### dar Build no projeto
 ```
 npm run build
 ```
